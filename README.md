@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sparks-Scorpion510
-- 👀 I’m interested in GTAV development as well as discord development.
-- 🌱 I’m currently learning Some discord coding with my server and some bots.
-- 💞️ I’m looking to collaborate on some FiveM developments maybe creating a server.
+- 👀 I’m interested in all sides of Ethical Hacking and I'm always looking to learn more.
+- 🌱 I’m currently learning some Cybersecurity stuff.
 - 📫 How to reach me ...
 
 <!---
